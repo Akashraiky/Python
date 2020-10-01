@@ -1,4 +1,3 @@
-import tensorflow as tf
 
 n =5 
 for x in list(range(n)) + list((reversed(range(n-1)))):
