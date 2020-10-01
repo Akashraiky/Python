@@ -1,4 +1,4 @@
-print("enter three numbers:")
+print("Enter Three numbers:")
  
 a = int(input())
 b = int(input())
