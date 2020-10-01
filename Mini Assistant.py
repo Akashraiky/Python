@@ -57,7 +57,7 @@ while True:
          print("Always Remember your focus determines your reality")
          pyttsx3.speak("Always Remember your focus determines your reality")
 
-    elif ("exit" in p) or ("quit" in p) or ("shutdown" in p) or ("close" in p) or ("kill" in p) or ("stop" in p):
+    elif ("exit" in p) or ("quit" in p) or ("shutdown" in p) or ("close" in p) or ("kill" in p) or ("stop" in p) :
          pyttsx3.speak("Shutting down ")
          break
         
