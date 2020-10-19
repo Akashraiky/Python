@@ -1,4 +1,4 @@
-num = int(input("enter number of digits you want in series (minimum 2): "))
+num = int(input("Enter number of digits you want in series (minimum 2): "))
  
 first = 0
 second = 1
